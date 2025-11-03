@@ -15,3 +15,10 @@ void loop() {
   digitalWrite(ledPin, LOW);    // Turn the LED off
   delay(1000);                  // Wait for 1 second
 }
+---
+
+## 👩‍💻 Author
+*Megha Dangi*  
+Electronics Enthusiast | Arduino Learner | Circuit Designer  
+🌐 [GitHub Profile](https://github.com/Megha-Dangi)
+📅 November 2025
